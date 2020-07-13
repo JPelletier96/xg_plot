@@ -6,6 +6,6 @@ Use data collected from Peter McKeever's openfootball.club (See the shot_map rep
 
 What I use these for:
 - Breaking down a team's offensive production over time.
-- Show our players periods of time during the game where we performed well or poorly.
+- Showing our players periods of time during the game where we performed well or poorly.
 - Opposition analysis. For example in this plot, Colorado College had 1 shot (0.10 xg) between the 30' and 65' so a coach could focus on those 35 minutes of the game and see what
 defensive tactics are effective against CC.
