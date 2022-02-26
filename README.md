@@ -1,9 +1,9 @@
 <p align="center">
   <img width="728" height="488" src="https://user-images.githubusercontent.com/57690237/86302021-17310600-bbcd-11ea-8ae3-ebb0826408c6.png">
 </p>
-
 Use data collected from Peter McKeever's openfootball.club (See the shot_map repository for directions on how to use openfootball.club to collect data) to create an xG plot.
 
+xG plots or "race plots" show each team's cumulative xG at every minute of the match. For example, you can see that at the 50 minute mark, UD had accumulated roughly 2 expected goals while CC had accumulated a little less than 1 xG. 
 What I use these for:
 - Breaking down a team's offensive production over time.
 - Showing our players periods of time during the game where we performed well or poorly.
